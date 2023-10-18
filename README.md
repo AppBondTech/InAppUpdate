@@ -1,8 +1,7 @@
 <br/>
 <p align="center">
     <img src="https://mdhasanmahmud.000webhostapp.com/inappupdate/youtubelogo.png" alt="Logo" width="150" height="150">
-  </a>
-
+    
   <h2 align="center">Implement Auto Link</h2>
 
   <p align="center">
