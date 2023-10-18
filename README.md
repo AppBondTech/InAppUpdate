@@ -10,13 +10,13 @@
     ভিডিও দেখার জন্য, নিচের ভিডিও টিউটোরিয়াল (Video Tutorial) বাটনে ক্লিক করুন
     <br/>
     <br/>
-    <a href="https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu"><strong> Video Tutorial »</strong></a>
+    <a href="https://youtu.be/7SMK6om3Emg?si=_-GD-9PJ1213ecFw"><strong> Video Tutorial »</strong></a>
     <br/>
     <br/>
     
 ## About This Project
 
-![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/autolinkthum.png)
+![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/inappupdate.png)
 
 ## In Co-operation
 
